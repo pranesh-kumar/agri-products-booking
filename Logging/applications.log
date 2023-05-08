@@ -1,0 +1,11 @@
+2023-03-10 11:07:13,031 INFO  StartupInfoLogger:51 - [] Starting Demo11LoggingApplication using Java 17.0.6 with PID 16456 (C:\Users\Lenovo\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Demo11_Logging\target\classes started by Lenovo in C:\Users\Lenovo\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Demo11_Logging)
+2023-03-10 11:07:13,034 INFO  SpringApplication:630 - [] No active profile set, falling back to 1 default profile: "default"
+2023-03-10 11:07:13,736 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-03-10 11:07:13,746 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-03-10 11:07:13,747 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-10 11:07:13,823 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-03-10 11:07:13,824 INFO  ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 754 ms
+2023-03-10 11:07:14,098 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-10 11:07:14,106 INFO  StartupInfoLogger:57 - [] Started Demo11LoggingApplication in 1.474 seconds (process running for 2.236)
+2023-03-10 11:23:11,428 INFO  SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159 - [] Application shutdown requested.
+2023-03-10 11:23:11,440 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
